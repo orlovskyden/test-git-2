@@ -5,3 +5,6 @@ git commit -m ""
 git log
 git log --oneline
 git push [repo_name] [branch_name]
+git reset
+git diff
+git reset --hard
