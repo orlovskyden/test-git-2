@@ -9,3 +9,4 @@ git push [repo_name] [branch_name] (git push origin master)
 git reset
 git diff
 git reset --hard
+git branch
